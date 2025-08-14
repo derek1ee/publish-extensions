@@ -189,6 +189,9 @@
   "CoenraadS.bracket-pair-colorizer": {
     "repository": "https://github.com/CoenraadS/BracketPair"
   },
+  "confluentinc.vscode-confluent": {
+    "repository": "https://github.com/confluentinc/vscode"
+  },
   "connorshea.vscode-ruby-test-adapter": {
     "repository": "https://github.com/connorshea/vscode-ruby-test-adapter"
   },
